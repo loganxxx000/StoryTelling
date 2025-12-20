@@ -1,0 +1,10 @@
+narrationId,narrationClass,marginTopVh,marginBottomVh,minHeightVh,h2Text,paragraphText,hRef,hRefText,trigger,graphTitle,graphCaption
+0,step-0,40,40,100,"Sección 1: Introducción","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","","","{""image"":""0_grafico.png""}","Inicio de la Secuencia","Fuente: Elaboración propia"
+1,step-0,40,40,100,"Sección 1: Nudo","Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.","","","{""image"":""0_grafico_familia.png""}","Evolución","Fuente: Elaboración propia"
+2,step-0,40,40,100,"Sección 1: Desenlace","Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.","","","{""image"":""0_grafico_otros.png""}","Resultado final","Fuente: Elaboración propia"
+3,step-1,40,40,100,"Año 2015","Lorem ipsum dolor sit amet. Aquí mostramos los datos del primer año de la serie histórica.","","","{""image"":""1_grafico_2015.png""}","Análisis 2015","Datos anuales"
+4,step-1,40,40,100,"Año 2016","Consectetur adipiscing elit. Observamos un cambio de tendencia respecto al año anterior.","","","{""image"":""1_grafico_2016.png""}","Análisis 2016","Datos anuales"
+5,step-1,40,40,100,"Año 2017","Sed do eiusmod tempor incididunt. La consolidación de los resultados se hace evidente.","","","{""image"":""1_grafico_2017.png""}","Análisis 2017","Datos anuales"
+6,step-2,40,40,100,"Tercer Gráfico","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Análisis profundo.","","","{""image"":""2_grafico_violin.png""}","Visualización 3","Detalle"
+7,step-3,40,40,100,"Cuarto Gráfico","Ut enim ad minim veniam, quis nostrud exercitation. Impacto global.","","","{""image"":""3_grafico_repetidos.png""}","Visualización 4","Impacto"
+8,step-4,40,40,100,"Conclusión Final","Duis aute irure dolor in reprehenderit. Cierre del análisis.","","","{""image"":""4_grafico_top_paises.png""}","Gráfico Final","Cierre"
